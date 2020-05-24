@@ -1,10 +1,11 @@
 # Project: Indeed Data Jobs Market Analysis (2019)
 
-## Tools & Modules Used
-**Python3 | Pandas | Plotly | API Requests | Beautiful Soup | RegEx**
-
+## Project Purpose
 The purpose of this project is to analyze the US job market for Data Jobs to answer the following questions.
 The scope of this project is limited to top 10 US Tech(IT) cities.
+
+## Tools & Modules Used
+**Python3 | Pandas | Plotly | API Requests | Beautiful Soup | RegEx**
 
 ![think_data](images/plot1.png)
 
