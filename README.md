@@ -9,8 +9,7 @@ The scope of this project is limited to top 10 US Tech(IT) cities.
 ![think_data](images/plot1.png)
 
 
-### Analysis/Questions Addressed
-*****
+## Analysis/Questions Addressed
 *   Job count section:
     1.  Which US cities—out of the "tech hubs"—has more data jobs?
     2.  City-wise, which companies are posting more data jobs?
@@ -30,10 +29,10 @@ The scope of this project is limited to top 10 US Tech(IT) cities.
 
 ### Project Scope
 *****
-### Job Titles in Scope of the Project:
+* Job Titles in Scope of the Project:
 All Titles with the word 'Data' (includes data analyst, scientist, engineer etc.), Business Intelligence/BI, Artificial Intelligence/AI, Machine Learning, Tableau, Power BI, Statistician/Statistical.
 
-### Cities in Scope of the Project - Following cities and 25 miles around them:
+* Cities in Scope of the Project - Following cities and 25 miles around them:
 Austin-TX, San Francisco-CA, Raleigh-NC, Denver-CO, Seattle-WA, Atlanta-GA, Boston-MA, New York City-NY, Washington-D.C., Columbus-OH
 
 ### Data Sources Used for this module
