@@ -10,6 +10,7 @@ The scope of this project is limited to top 10 US Tech(IT) cities.
 
 
 ### Analysis/Questions Addressed
+******  
 *   Job count section:
     1.  Which US cities—out of the "tech hubs"—has more data jobs?
     2.  City-wise, which companies are posting more data jobs?
