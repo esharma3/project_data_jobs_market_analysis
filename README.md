@@ -1,7 +1,7 @@
 # Project: Indeed Data Job Market Analysis (2019)
 
 ## Technologies Used
-#### Python | Pandas | Plotly | API Requests | Beautiful Soup | RegEx
+### Python | Pandas | Plotly | API Requests | Beautiful Soup | RegEx
 
 The purpose of this project is to analyze the US job market for Data Jobs to answer the following questions.
 The scope of this project is limited to top 10 US Tech(IT) cities.
@@ -27,16 +27,14 @@ The scope of this project is limited to top 10 US Tech(IT) cities.
 *   Crime section:
     1.  What is the ratio of number of data jobs posted and per capita crime rate based on the city?
 
-### Project Scope
-*****
+## Project Scope
 * Job Titles in Scope of the Project:
 All Titles with the word 'Data' (includes data analyst, scientist, engineer etc.), Business Intelligence/BI, Artificial Intelligence/AI, Machine Learning, Tableau, Power BI, Statistician/Statistical.
 
 * Cities in Scope of the Project - Following cities and 25 miles around them:
 Austin-TX, San Francisco-CA, Raleigh-NC, Denver-CO, Seattle-WA, Atlanta-GA, Boston-MA, New York City-NY, Washington-D.C., Columbus-OH
 
-### Data Sources Used for this module
-*****
+## Data Sources Used for this module
 *   Jobs data csv created using Indeed API (in data_collection module)
 *   Salary, rating, experience csv files created using web scraping (in data collection module)
 *   Zillow - csv files for House Prices
